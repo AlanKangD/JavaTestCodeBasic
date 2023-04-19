@@ -9,4 +9,12 @@ public class MenuItem {
         this.price = price;
 
     }
+
+    public int getPrice() {
+        return price;
+    }
+
+    public String getFood() {
+        return food;
+    }
 }
